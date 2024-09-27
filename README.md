@@ -1,6 +1,9 @@
 # Image2text
-NLP based Image to Text project
+Generative AI based Image to Text application
 # Image to Text Application using Gemini AI
+
+![Screenshot 2024-09-27 114828](https://github.com/user-attachments/assets/9385c66b-edf8-4662-88a3-8c2fb9be078d)
+
 
 ## Project Overview
 
